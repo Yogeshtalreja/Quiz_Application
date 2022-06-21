@@ -115,7 +115,7 @@ res ? (
     }
     </Form.Group>
     
-    <Button variant="success" className="mx-2" onClick={minus}>Previous</Button><Button variant="success" onClick={plus}>Next</Button>
+    <Button variant="success" className="mx-2" onClick={minus}>Check Previous</Button><Button variant="success" onClick={plus}>Next</Button>
   
   
   </Card.Body>
